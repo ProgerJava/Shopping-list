@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyCheckBox2" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/OrangeRed</item>
+        <item name="colorControlActivated">@color/DarkOrange</item>
+    </style>
+</resources>

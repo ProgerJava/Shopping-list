@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2595" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style1.xml" value="0.2585" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style_button.xml" value="0.2445" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style_indicator.xml" value="0.2585" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style_text_color1.xml" value="0.2585" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style_text_color10.xml" value="0.2595" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style_text_color2.xml" value="0.2595" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style_text_color3.xml" value="0.2585" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style_text_color4.xml" value="0.2585" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style_text_color5.xml" value="0.2445" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style_text_color6.xml" value="0.2595" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style_text_color7.xml" value="0.2595" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style_text_color8.xml" value="0.2595" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/drawable/style_text_color9.xml" value="0.2595" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/font/neucha.xml" value="0.284375" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/font/pt_sans_bold.xml" value="0.284375" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/font/rubik_mono_one.xml" value="0.284375" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout-land/parent_list8.xml" value="0.21516754850088182" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout-sw600dp/parent_list8.xml" value="0.190625" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_add.xml" value="0.2" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_list_text.xml" value="0.2" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_list_text_style1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_list_text_style10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_list_text_style2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_list_text_style3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_list_text_style4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_list_text_style5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_list_text_style6.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_list_text_style7.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_list_text_style8.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_list_text_style9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/activity_setting.xml" value="0.24010416666666667" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/child_list.xml" value="0.20854700854700856" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/child_list1.xml" value="0.6" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/child_list10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/child_list2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/child_list3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/child_list4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/child_list5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/child_list6.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/child_list7.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/child_list8.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/child_list9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/child_list_style1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/parent_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/parent_list1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/parent_list10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/parent_list2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/parent_list3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/parent_list4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/parent_list5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/parent_list6.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/parent_list7.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/parent_list8.xml" value="0.25" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/parent_list9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/GameShop/app/src/main/res/layout/style_text_color1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/app/src/main/res/font/.xml" value="0.284375" />
+        <entry key="..\:/Plays/app/src/main/res/font/rubik_mono_one.xml" value="0.284375" />
+        <entry key="..\:/Plays/app/src/main/res/layout/activity_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Plays/app/src/main/res/layout/activity_main.xml" value="0.21422101449275363" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

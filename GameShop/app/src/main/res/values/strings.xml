@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To-do list</string>
+    <string name="nameApp">Мой список</string>
+    <string name="newSample">Новый шаблон</string>
+    <string name="setting">Настройки</string>
+    <string name="milkProduct">Молочные продукты</string>
+    <string name="kefir">Кефир</string>
+    <string name="textProducts">Продукты</string>
+    <string name="titleBackground">Выберите подходящий фон</string>
+    <string name="titleTextColor">Выберите цвет текста</string>
+</resources>
